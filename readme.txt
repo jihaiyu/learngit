@@ -3,3 +3,4 @@ Git is free software.
 aaa
 bbb
 Git tracks changes
+Git tracks changes of files.
